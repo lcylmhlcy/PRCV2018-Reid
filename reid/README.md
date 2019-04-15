@@ -14,8 +14,8 @@ Most details: http://prcv.qyhw.net.cn/pages/20
 ## Result
 ![img](https://github.com/lcylmhlcy/PRCV2018-Reid/raw/master/img/csv.png)  
 
-The output csv is in folder **csv** and model dict is in folder **saved_model**, as follows:  
+1. The output csv is in folder **csv** and model dict is in folder **saved_model**, as follows:  
 ![img](https://github.com/lcylmhlcy/PRCV2018-Reid/raw/master/img/2.png) 
 
-**csv** folder has three files:  
+2. **csv** folder has three files:  
 ![img](https://github.com/lcylmhlcy/PRCV2018-Reid/raw/master/img/1.png) 
